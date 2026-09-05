@@ -1,0 +1,14 @@
+Assignment repository: https://github.com/shanny2022/python-assignment11
+Assignment pull request: https://github.com/shanny2022/python-assignment11/pull/1
+Capstone repository: https://github.com/shanny2022/python_homework
+Streamlit Community Cloud app URL: https://pythonhomework-xvaggbmkepo3ciy3pjkymj.streamlit.app/
+
+Deploy the capstone using:
+Repository: shanny2022/python_homework
+Branch: assignment11-capstone
+Main file path: assignment10/capstone_quotes/app.py
+Python: 3.13
+
+Deployment URL supplied by the user; public browser verification remains pending.
+
+Capstone pull request: https://github.com/shanny2022/python_homework/pull/8
