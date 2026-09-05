@@ -1,5 +1,5 @@
 Assignment repository: https://github.com/shanny2022/python-assignment11
-Assignment pull request: pending creation
+Assignment pull request: https://github.com/shanny2022/python-assignment11/pull/1
 Capstone repository: https://github.com/shanny2022/python_homework
 Streamlit Community Cloud app URL: NOT DEPLOYED YET
 
@@ -10,3 +10,5 @@ Main file path: assignment10/capstone_quotes/app.py
 Python: 3.13
 
 After deployment, replace NOT DEPLOYED YET with the real public app URL.
+
+Capstone pull request: https://github.com/shanny2022/python_homework/pull/8
