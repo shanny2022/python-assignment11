@@ -1,7 +1,7 @@
 Assignment repository: https://github.com/shanny2022/python-assignment11
 Assignment pull request: https://github.com/shanny2022/python-assignment11/pull/1
 Capstone repository: https://github.com/shanny2022/python_homework
-Streamlit Community Cloud app URL: https://9ffs4bon8dnideqn8co3mc.streamlit.app/
+Streamlit Community Cloud app URL: https://pythonhomework-xvaggbmkepo3ciy3pjkymj.streamlit.app/
 
 Deploy the capstone using:
 Repository: shanny2022/python_homework
